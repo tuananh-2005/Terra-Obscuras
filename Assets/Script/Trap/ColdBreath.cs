@@ -13,12 +13,5 @@ public class ColdBreath : MonoBehaviour
     {
         
     }
-    private void ColdBreathSlow()
-    {
 
-    }
-    private void Freeze()
-    {
-
-    }
 }
