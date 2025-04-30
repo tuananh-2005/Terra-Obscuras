@@ -13,16 +13,5 @@ public class NewMonoBehaviourScript : MonoBehaviour
     {
         
     }
-    private void DeadlyWindZone()
-    {
 
-    }
-    private void Slow()
-    {
-
-    }
-    private void TimeTrap()
-    {
-
-    }
 }
