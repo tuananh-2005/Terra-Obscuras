@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7615976585566423036}
   - component: {fileID: 5425544510375209639}
   - component: {fileID: 7439150471812713996}
-  - component: {fileID: 7039011375034128283}
+  - component: {fileID: 8894133953195989835}
   m_Layer: 0
   m_Name: Blood Swamp
   m_TagString: Untagged
@@ -111,7 +111,7 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7039011375034128283
+--- !u!114 &8894133953195989835
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -120,6 +120,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 7572955321850425769}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8531d491d5370d346b78f5f483e63308, type: 3}
+  m_Script: {fileID: 11500000, guid: f622e839aa9525e4b9028d769398a653, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
