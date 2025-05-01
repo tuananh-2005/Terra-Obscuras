@@ -3,7 +3,27 @@ guid: 1db9731715ad4614396df0b9f3929c7c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Diffuse_Bake
+    second: {fileID: 2800000, guid: 998b3601985a116428ceaced16156fe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metallic
+    second: {fileID: 2800000, guid: eff1ca5f9d1508b4a951d5f1b7129a64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal_Bake
+    second: {fileID: 2800000, guid: b4313a622facf394fabdbe3cedf0d45e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roughness
+    second: {fileID: 2800000, guid: 0aabfbdc7cfb91b4cb3216822913f464, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -5,30 +5,25 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: tripo_mat_e993b82f
-    second: {fileID: 3180706716288602726, guid: c896ab7ad4a4096408d65a5cb3582a9c, type: 3}
-  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Diffuse_Bake
-    second: {fileID: 2800000, guid: 77e12e5fe5e82e247b231f19a179f66c, type: 3}
+    second: {fileID: 2800000, guid: 7b8b1656e8134a14cb15da232f3a487b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Metallic
-    second: {fileID: 2800000, guid: 9aec1f28ae243024d861ac0d4b3dafd2, type: 3}
+    second: {fileID: 2800000, guid: f85ff4b65b145814c936e17e5be225d5, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Normal_Bake
-    second: {fileID: 2800000, guid: b919ba6fd6cf7c247a32d3c26754222b, type: 3}
+    second: {fileID: 2800000, guid: 92b2f3170a83fa942bbfd0eae09078b3, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Roughness
-    second: {fileID: 2800000, guid: 6b17f3417f7bebb4d9b9bcfd351bf318, type: 3}
+    second: {fileID: 2800000, guid: 85c69a3d17bf238438f35f0bcdd1a195, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
